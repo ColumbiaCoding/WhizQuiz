@@ -1,5 +1,5 @@
-# WhizQuiz
-Web APIs Challenge: Code Quiz
+# WhizQuiz Application
+
 ## Table of Contents
 
 * [Description](#description)
@@ -8,27 +8,32 @@ Web APIs Challenge: Code Quiz
 * [Screenshots](#screenshots)
 * [Technologies Used](#technologies)
 * [Licence](#license)
-* [Credits](#credits)
+
 
 ## Description
 
-In WhizQuiz, you can play a timed quiz game, which is built on on JavaScript fundamentals that stores high scores
+The WhizQuiz App is devleoped to be a timed quiz on JavaScript fundamentals that stores high scores
 
 ## Links
-https://columbiacoding.github.io/WhizQuiz/
+https://github.com/ColumbiaCoding/WhizQuiz
 
 ## Purpose
 
-The purpose of this assignment is to deploy a timed quiz on JavaScript fundamentals that stores high scores
+This applicaiton can gauge my progress compared to my peers
 
 ## Screenshots
 
+
+
 ## Technologies
 
-HTML
-CSS
-JavaScript
+<img src="https://img.shields.io/badge/Built%20with-HTML5-blue">
+
+<img src="https://img.shields.io/badge/Built%20with-CSS3-blue">
+
+<img src="https://img.shields.io/badge/Built%20with-Javascript-blue">
 
 ## License
 
-MIT License 
+<img src="https://img.shields.io/badge/license-MIT-blue">
+
