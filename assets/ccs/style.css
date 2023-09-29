@@ -32,7 +32,7 @@ flex-direction: column;
   justify-content: space-between;
 }
 #decision{
-  border: solid, black, 1px;
+  border: solid, black, 10px;
 }
 .highScores, #gameOver{
 display: flex;

@@ -15,7 +15,11 @@
 The WhizQuiz App is devleoped to be a timed quiz on JavaScript fundamentals that stores high scores
 
 ## Links
-https://github.com/ColumbiaCoding/WhizQuiz
+<a href="https://github.com/ColumbiaCoding/WhizQuiz">Link to Github Repo</a>
+
+
+<a href="https://columbiacoding.github.io/WhizQuiz/">Link to Deployed Site</a>
+
 
 ## Purpose
 
