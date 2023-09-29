@@ -27,7 +27,7 @@ This applicaiton can gauge my progress compared to my peers
 
 ## Screenshots
 
-
+<img src="./assets/images/image.png">
 
 ## Technologies
 
